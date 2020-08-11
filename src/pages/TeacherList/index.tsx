@@ -120,7 +120,6 @@ function TeacherList() {
             />
           )
         })}
-
       </ScrollView>
     </View>
   )
